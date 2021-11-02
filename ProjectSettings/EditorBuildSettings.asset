@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/StartupSceneServer.unity
+    guid: 720e38f9201b668408e44b4467728955
+  - enabled: 1
+    path: Assets/Scenes/StartupSceneClient.unity
+    guid: b7b9a52f698cd32419ad60d42095d862
+  - enabled: 1
+    path: Assets/Scenes/Launcher.unity
+    guid: 40ba081e25e483043830a42be9c74add
+  - enabled: 1
+    path: Assets/Scenes/Room for 1.unity
+    guid: 397c1dc7ec568e2458972da0cd812508
+  - enabled: 1
+    path: Assets/Scenes/Room for 2.unity
+    guid: 64b6757c95e8bf9419c2e3352795f0b2
+  - enabled: 1
+    path: Assets/Scenes/Room for 3.unity
+    guid: c855de8c8ca8917469e3c57a5a4e0322
+  - enabled: 1
+    path: Assets/Scenes/Room for 4.unity
+    guid: 555ee49dee207aa4c9ef3b6ce1175d39
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoHub/DemoHub-Scene.unity
+    guid: 7dfd47dc8b9484dd79d8636d8603a9e5
+  - enabled: 0
+    path: Assets/Photon/PhotonChat/Demos/DemoChat/DemoChat-Scene.unity
+    guid: ec07267f6a28fb044ac89845274e79af
+  - enabled: 0
+    path: Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/DemoLoadBalancing-Scene.unity
+    guid: a73b0cac1a73cc346aaeb5f8dd0b53f1
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scenes/DemoAsteroids-GameScene.unity
+    guid: 98efc37d6307844488eb3e4247dde7e9
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scenes/DemoAsteroids-LobbyScene.unity
+    guid: c8a9d1312a49dc8488a9b32d83d659c7
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Procedural-Scene.unity
+    guid: e1fad393017993c4893877b645062417
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/SlotCar-Scene.unity
+    guid: 711b38c07f2cf904f81b3422c67f1825
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Launcher.unity
+    guid: bff77b01b50254edbb6edeeaba5ae8b3
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
+      for 1.unity
+    guid: 9b8561c6e396849a5ba48c3eb9524049
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
+      for 2.unity
+    guid: 764428c63577f4580af4ce54ca9f4b1b
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
+      for 3.unity
+    guid: e07afcca5bf1a41f5bd28f498656b7b8
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
+      for 4.unity
+    guid: e7a7f9734636d415ca84ef3aaf7680f6
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/PunCockpit-Scene.unity
+    guid: 9d6d60c803e244e51ba945a84b88757d
+  - enabled: 0
+    path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/SlotCar-Scene.unity
+    guid: 711b38c07f2cf904f81b3422c67f1825
+  m_configObjects: {}
